@@ -1,24 +1,4 @@
-/*-----------------------------------------------------------------------------------
 
-    Template Name: Fitness
-    Author: UIdeck
-    Author URI: uideck.com
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
-    CSS INDEX
-    ===================
-
-    01. Theme default CSS
-	02. Header
-    03. Hero
-	04. Footer
-
------------------------------------------------------------------------------------*/
-/*===========================
-    1. COMMON css 
-===========================*/
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap");
 body {
   font-family: "Lato", sans-serif;
