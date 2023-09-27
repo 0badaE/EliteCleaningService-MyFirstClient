@@ -11,3 +11,8 @@ there was no need to load it up with features.
 
 fun little project and putting myself in a position where I am working 
 professionally with clients. Crazy to think I started this 6-7 months ago!
+
+It was my first time working with google domains. I took care of purchasing the site
+and hosting everything. Linked the project with a host called netlify, the project is 
+linked with the host, so we can make changes from github and they'll immediately apply!
+
